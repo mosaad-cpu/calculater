@@ -1,12 +1,22 @@
-# calculater
 #include <stdio.h>
+
 #include <stdlib.h>
 
+
 int main()
+
+
+
 {
+
+
+
    int first_num;
+   
    int sec_num ;
+   
    char  oprator;
+
 
    printf("please enter your first number\n ");
 
@@ -59,6 +69,22 @@ int main()
 
 
    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     return 0;
 }
